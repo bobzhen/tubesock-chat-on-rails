@@ -13,4 +13,3 @@ gem 'jbuilder', '~> 2.0'
 gem 'redis'
 gem 'puma'
 gem 'tubesock'
-
